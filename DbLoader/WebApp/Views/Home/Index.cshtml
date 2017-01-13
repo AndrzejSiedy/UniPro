@@ -1,0 +1,46 @@
+﻿@model IEnumerable<WebApp.Models.Actor>
+
+@{
+    ViewBag.Title = "Home Page";
+}
+
+<table>
+    <tr>
+        <th></th>
+        <th>Date</th>
+        <th>StartTime</th>
+        <th>EndTime</th>
+        <th>Actor1</th>
+        <th>Actor2</th>
+        <th>Actor3</th>
+        <th>Actor4</th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Date)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.StartTime)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.EndTime)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Actor1)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Actor2)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Actor3)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Actor4)
+            </td>
+        </tr>
+    }
+
+</table>

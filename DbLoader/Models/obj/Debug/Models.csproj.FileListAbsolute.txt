@@ -1,0 +1,5 @@
+E:\UniPro\DbLoader\Models\bin\Debug\Models.dll
+E:\UniPro\DbLoader\Models\bin\Debug\Models.pdb
+E:\UniPro\DbLoader\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
+E:\UniPro\DbLoader\Models\obj\Debug\Models.dll
+E:\UniPro\DbLoader\Models\obj\Debug\Models.pdb

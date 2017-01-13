@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DbLoader", "DbLoader\DbLoader.csproj", "{5ED77B27-15EE-4694-9195-D20168598821}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "Models\Models.csproj", "{6577F797-5C84-463A-A12C-68AB48587D6F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApp", "WebApp\WebApp.csproj", "{0F6704C4-3964-4A03-8741-7515E35FDE7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5ED77B27-15EE-4694-9195-D20168598821}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5ED77B27-15EE-4694-9195-D20168598821}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5ED77B27-15EE-4694-9195-D20168598821}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5ED77B27-15EE-4694-9195-D20168598821}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6577F797-5C84-463A-A12C-68AB48587D6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6577F797-5C84-463A-A12C-68AB48587D6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6577F797-5C84-463A-A12C-68AB48587D6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6577F797-5C84-463A-A12C-68AB48587D6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F6704C4-3964-4A03-8741-7515E35FDE7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F6704C4-3964-4A03-8741-7515E35FDE7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F6704C4-3964-4A03-8741-7515E35FDE7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F6704C4-3964-4A03-8741-7515E35FDE7D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

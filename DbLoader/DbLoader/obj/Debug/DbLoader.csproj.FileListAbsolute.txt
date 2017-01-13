@@ -1,0 +1,14 @@
+E:\UniPro\DbLoader\DbLoader\bin\Debug\DbLoader.exe.config
+E:\UniPro\DbLoader\DbLoader\bin\Debug\DbLoader.exe
+E:\UniPro\DbLoader\DbLoader\bin\Debug\DbLoader.pdb
+E:\UniPro\DbLoader\DbLoader\bin\Debug\EntityFramework.dll
+E:\UniPro\DbLoader\DbLoader\bin\Debug\EntityFramework.SqlServer.dll
+E:\UniPro\DbLoader\DbLoader\bin\Debug\Models.dll
+E:\UniPro\DbLoader\DbLoader\bin\Debug\Models.pdb
+E:\UniPro\DbLoader\DbLoader\bin\Debug\EntityFramework.xml
+E:\UniPro\DbLoader\DbLoader\bin\Debug\EntityFramework.SqlServer.xml
+E:\UniPro\DbLoader\DbLoader\obj\Debug\DbLoader.csprojResolveAssemblyReference.cache
+E:\UniPro\DbLoader\DbLoader\obj\Debug\DbLoader.Migrations.InitMigration.resources
+E:\UniPro\DbLoader\DbLoader\obj\Debug\DbLoader.csproj.GenerateResource.Cache
+E:\UniPro\DbLoader\DbLoader\obj\Debug\DbLoader.exe
+E:\UniPro\DbLoader\DbLoader\obj\Debug\DbLoader.pdb
